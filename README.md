@@ -18,7 +18,6 @@ In Phase 1, I used the yfinance API to extract historical stock data of Apple an
 
 
 
-
 ![Apple Stock Dividend Line Chart](https://github.com/Inyrkz/share_prices_analysis/blob/main/resources/apple%20stock%20dividend%20api.PNG?raw=true)
 
 *Apple Stock Dividend Line Chart*
@@ -36,7 +35,7 @@ In Phase 2, I utilized web-scraping techniques to obtain Netflix and Amazon stoc
 
 
 
-![Scrape Netflix Data](/resources/scrape netflix data.PNG)
+![Scrape Netflix Data](https://github.com/Inyrkz/share_prices_analysis/blob/main/resources/scrape%20netflix%20data.PNG?raw=true)
 
 *Scrape Netflix Data*
 
@@ -45,8 +44,19 @@ In Phase 2, I utilized web-scraping techniques to obtain Netflix and Amazon stoc
 
 In the final phase of the project (Phase 3), I brought everything together. I extracted the profit data for Tesla and GameStop and built a dashboard to compare the stock price vs the profit for a hedge fund. I used the yfinance API to extract Tesla and GameStop (GME) stock data and used web scraping to Extract Tesla and GME Revenue Data. I plotted the Tesla and GameStop stock graphs using the Plotly library.The notebook is [here](https://github.com/Inyrkz/share_prices_analysis/blob/main/Final%20Assignment.ipynb).
 
-![GME Stock Data Extraction](/resources/q3 yup.PNG)
+![GME Stock Data Extraction](https://github.com/Inyrkz/share_prices_analysis/blob/main/resources/q3%20yup.PNG)
 
 *GME Stock Data Extraction*
 
 
+![Tesla Revenue Data](https://github.com/Inyrkz/share_prices_analysis/blob/main/resources/tesla%20revenue%20data%202.PNG)
+*Tesla Revenue Data*
+
+
+![Tesla Stock chart and Revenue Chart](https://github.com/Inyrkz/share_prices_analysis/blob/main/resources/Tesla%20stock%20price%20and%20revenue%20yup.png?raw=true)
+*Tesla Stock chart and Revenue Chart*
+
+
+
+![GME Stock chart and Revenue Chart](https://github.com/Inyrkz/share_prices_analysis/blob/main/resources/gamestop_stock_price_and_revenue.png?raw=true)
+*GME Stock chart and Revenue Chart*
