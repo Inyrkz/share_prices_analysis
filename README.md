@@ -36,9 +36,9 @@ In Phase 2, I utilized web-scraping techniques to obtain Netflix and Amazon stoc
 
 
 
-![Netflix Stock Data](https://github.com/Inyrkz/share_prices_analysis/blob/main/resources/netflix%20data%20phase%202.PNG)
+![Scrape Netflix Data](/resources/scrape netflix data.PNG)
 
-*Netflix Stock Data*
+*Scrape Netflix Data*
 
 
 
