@@ -1,7 +1,7 @@
 # share_prices_analysis
 Extracting financial data of various corporations from multiple sources and analyzing the data.
 
-I just completed an exhilarating project as a Data Scientist / Data Analyst for a hypothetical startup investment firm that helps customers invest their money in stocks 📈. This project is part of the @IBM [Python Project for Data Science course](https://www.coursera.org/learn/python-project-for-data-science/home/welcome) on @Coursera.
+I just completed an exhilarating project as a Data Scientist / Data Analyst for a hypothetical startup investment firm that helps customers invest their money in stocks 📈. This project is part of the IBM's [Python Project for Data Science course](https://www.coursera.org/learn/python-project-for-data-science/home/welcome) on Coursera.
 
 My job was to extract financial data like historical share prices and quarterly revenue reportings from various sources using Python libraries and web scraping on popular stocks like Tesla, Amazon, AMD, and GameStop 📊.
 
@@ -53,8 +53,12 @@ In the final phase of the project (Phase 3), I brought everything together. I ex
 *Tesla Revenue Data*
 
 
+
+
+
 ![Tesla Stock chart and Revenue Chart](https://github.com/Inyrkz/share_prices_analysis/blob/main/resources/Tesla%20stock%20price%20and%20revenue%20yup.png?raw=true)
 *Tesla Stock chart and Revenue Chart*
+
 
 
 
