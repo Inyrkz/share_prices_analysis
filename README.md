@@ -13,7 +13,7 @@ In Phase 1, I used the yfinance API to extract historical stock data of Apple an
 *Open Share Price of Apple Stock*
 
 
-![Apple Stock Dividend Line Chart]([resources/apple stock dividend api.PNG](https://github.com/Inyrkz/share_prices_analysis/blob/main/resources/apple%20stock%20dividend%20api.PNG?raw=true))
+![Apple Stock Dividend Line Chart](https://github.com/Inyrkz/share_prices_analysis/blob/main/resources/apple%20stock%20dividend%20api.PNG?raw=true)
 
 *Apple Stock Dividend Line Chart*
 
